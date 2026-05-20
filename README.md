@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elton Fernandes
 
-🚀 **Desenvolvedor BackeEnd | Java & Python & SQL**  
+🚀 **BackEnd Developer | Java & Python & SQL**  
 🇧🇷 Brazil
 
 I'm Elton, a software development student interested in **backend development, Java, APIs, and software architecture**.
