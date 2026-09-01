@@ -1,13 +1,13 @@
 # Hi 👋, I'm Elton Fernandes
 
-🚀 **BackEnd Developer | Java & Python & SQL**  
+🚀 **BackEnd Developer | Java & Spring Boot 
 🇧🇷 Brazil
 
-I'm Elton, a software development student interested in **backend development, Java, APIs, and software architecture**.
+I'm Elton, a Computer Science student focused on backend development and software engineering.
 
-I enjoy learning new technologies, building projects, and turning ideas into code.
+I enjoy building practical projects, designing REST APIs, working with databases, and learning how to develop reliable and maintainable software.
 
-Currently studying **Java, Spring Boot, API and databases**.
+Currently focused on **Java**, **Spring Boot**, **REST APIs**, **PostgreSQL**, **Docker**, and **software architecture**.
 
 ---
 
@@ -26,14 +26,17 @@ Currently studying **Java, Spring Boot, API and databases**.
 
 ## 🧠 What I do
 
- - ☕ Backend development with Java & Python
- - ⚡ Learning REST APIs & Spring Boot 
- - 🗄️ SQL & database design
- - 🧩 OOP fundamentals
- - 🔧 Building practical software projects
- - 🌐 Software development fundamentals & web technologies
- - 📚 Continuous learning and technical growth
- - 🚀 Preparing for Backend & Software Engineering opportunities
+- ☕ Backend development with Java & Spring Boot
+- ⚡ Development of REST APIs
+- 🗄️ Relational databases and SQL
+- 🐘 PostgreSQL database development
+- 🧩 Object-Oriented Programming with Java
+- 📦 DTOs and layered application architecture
+- ✅ Bean Validation and global exception handling
+- 📖 API documentation with SpringDoc / OpenAPI
+- 🐳 Containerization with Docker
+- 🔧 API testing with Postman
+- 🌱 Continuous learning and software engineering development
 
 ---
 
@@ -55,6 +58,48 @@ Currently studying **Java, Spring Boot, API and databases**.
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📚 Currently Learning
+
+- ☕ Advanced Java & Spring Boot
+- 🏗️ REST API architecture and best practices
+- 🗄️ Advanced SQL and database modeling
+- 🧪 Automated testing
+- 🐳 Docker and application deployment
+- 🔐 API security
+- 🏛️ Software architecture and design patterns
+  
+---
+
+## 🚀 Featured Project
+# 📚 Library API
+
+A REST API developed with Java and Spring Boot for managing a library system.
+
+The project includes:
+
+- 📖 Books, authors and publishers management
+- 👤 Client management
+- 🔄 Loan management
+- 🔗 Entity relationships and relational database modeling
+- 📦 DTOs for request and response
+- ✅ Bean Validation
+- ⚠️ Global exception handling
+- 🧠 Business rules implemented in the service layer
+- 🐘 PostgreSQL
+- 🐳 Docker
+- 📮 Postman API testing
+- 📖 OpenAPI / Swagger documentation
+  
+---
+
+## 🎯 Goals
+
+I'm currently looking for opportunities to grow as a Backend Developer, especially in environments where I can work with **Java**, **Spring Boot**, **REST APIs**, **databases**, and **software engineering** practices.
+
+I'm always looking to learn, build better projects, and turn knowledge into practical experience.
 
 ---
 
